@@ -11,14 +11,14 @@ An analysis of key features impacting life expectancy in lower-middle income cou
 This code has a number of required dependencies which have to be pre-installed to work. They include:
 - pandas
 - numpy
-- sklern
+- sklearn
 - matplotlib.pyplot
 - seaborn
 - statsmodels
 - scipy.stats
 - tabulate
 
-This project used a dataset that was obtained from the Health Nutrition and Population Statistics dataset from the [World Bank](https://databank.worldbank.org/source/health-nutrition-and-population-statistics). To ensure that the dataset can be replicated, the offline version of the data is included in the '/data/raw' folder. This file is in CSV format.
+This project used a dataset that was obtained from the Health Nutrition and Population Statistics dataset from the [World Bank](https://databank.worldbank.org/source/health-nutrition-and-population-statistics). To ensure that the dataset can be replicated, the offline version of the data is included in the repository - you can download it [here](Lower_Middle_DataBank_Health_Nutrition_and_Population_Statistics.csv). This file is in CSV format.
 ## Motivation
 The motivation behind this project was to take a data science approach to understanding the key predictors of life expectancy and offer insights into priorities for policymakers to help them maximise their impact on public health.
 ## Files
